@@ -1,0 +1,8 @@
+baseURL = "http://schoos.io/"
+languageCode = "en-us"
+title = "schoos.io"
+theme = "seminyak"
+[params]
+#  background_image_url = "https://source.unsplash.com/ZJqO6ddBpic/" # Optional, background image
+#  background_image_url = "https://schoos.io/ #source.unsplash.com/ZJqO6ddBpic/"
+  background_image_url = "http://schoos.io/clouds.jpeg"
